@@ -1,7 +1,9 @@
 import matplotlib.pyplot as plt
 
 def plot_results_table(results, N):
-
+    git
+    checkout - b
+    LessСompressionJPEG
 
     fig, ax = plt.subplots(figsize=(14/1.54, N/1.54))
     headers = ['Ентропія', 'bps AC', 'bps CH']
